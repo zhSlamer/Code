@@ -7,6 +7,7 @@
 
 int main(const int argc, const char* argv[])
 {
-    printf("introduce vector :");
+    printf("introduce vector : \n");
+    printf("finish file. \n");
     return 0;
 }
